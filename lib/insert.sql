@@ -7,4 +7,4 @@ VALUES
   ('Melissa', 4, 'F', 'Black', 'Playful', 1),
   ('Grinch', 6, 'M', 'Green', 'Sneaky', 1),
   ('Wendy', 8, 'F', 'White', 'Calm', 1),
-  ('unnamed', NULL, NULL, NULL, NULL, 0);
+  (NULL, 2, 'M', 'Brown', 'Calm', 1);
